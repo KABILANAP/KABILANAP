@@ -16,7 +16,7 @@ I am a front-end developer who loves React!
 
 
 <p align="left">
-Python c c++ aws java HTML 
+Python, c, c++,  aws, java, HTML, ,javascript , mac os , Linux
 </p>
 
 
