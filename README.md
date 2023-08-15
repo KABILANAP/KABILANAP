@@ -16,7 +16,7 @@ I am a front-end developer who loves React!
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+Python c c++ aws java HTML 
 </p>
 
 
